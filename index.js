@@ -9,5 +9,5 @@ function theBeatlesPlay(musicians,instruments) {
 
 function jonLennonFacts(arrayOfFacts) {
   var numberOfFacts = arrayOfFacts.length
-  while 
+  while
 }
